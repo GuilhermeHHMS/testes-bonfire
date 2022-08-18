@@ -1,0 +1,32 @@
+{ "columns":32,
+ "image":"..\/Users\/g00hu\/Downloads\/First Asset pack.png",
+ "imageheight":384,
+ "imagewidth":384,
+ "margin":0,
+ "name":"First Asset pack",
+ "spacing":0,
+ "tilecount":1024,
+ "tiledversion":"1.9.1",
+ "tileheight":12,
+ "tiles":[
+        {
+         "animation":[
+                {
+                 "duration":100,
+                 "tileid":438
+                }, 
+                {
+                 "duration":100,
+                 "tileid":470
+                }, 
+                {
+                 "duration":100,
+                 "tileid":502
+                }],
+         "id":438
+        }],
+ "tilewidth":12,
+ "transparentcolor":"#ff00ff",
+ "type":"tileset",
+ "version":"1.8"
+}
